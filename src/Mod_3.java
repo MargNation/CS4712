@@ -67,7 +67,7 @@ public class Mod_3 extends JFrame {
             }
         }) ;
     
-        // noButton prints a message to the console and closes the frame
+        // noButton prints a message to the console but doesn't close the frame
         noButton.addActionListener(new ActionListener() {
             String[] responses = { "Sorry, please try again.", "Seriously, this isn't the right response.", "Perhaps you are mistaken.", "That's funny. Actually, no it isn't." };
             public void actionPerformed(ActionEvent e) {
