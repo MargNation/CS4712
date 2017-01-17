@@ -1,3 +1,2 @@
-# CS4712
-Assignments from CS 4712<br>User Interface Engineering<br>
-Kennesaw State University
+###Coursework from my classes at [Kennesaw State University](http://www.kennesaw.edu)
+
